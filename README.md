@@ -4,7 +4,7 @@
     
 This project is meant to be a primer for using the matplotlib funtions for graphing data. Graphing data can help to understand trends in data or compare different data sets. In this analysis we used data from a ride hailing company, PyBer, and grouped the data first by city type and then by date and city type. We used pandas groupby funtion to seperate the data by city type and the resample function to sort the data by week. In the summary table below we can see that even though there were fewer riders and drivers, the average fare is higher than in the urban or suburban environement. We can also see that for urban cities, there are many more drivers than fares. This pushed down the average fare per driver.
 
-![Summary Dataframe](https://github.com/Duvey314/PyBer-Analysis/blob/master/Analysis/Fig9.png)
+![Summary Dataframe](https://github.com/Duvey314/PyBer-Analysis/blob/master/Analysis/Fig9.PNG)
 
 ![Total Fare by City Type](https://github.com/Duvey314/PyBer-Analysis/blob/master/Analysis/Fig8.png)
 
